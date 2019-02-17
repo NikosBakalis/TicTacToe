@@ -1,4 +1,4 @@
-package test.test;
+//package test.test;
 
 import java.awt.*;
 import java.awt.event.MouseAdapter;
