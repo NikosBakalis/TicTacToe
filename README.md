@@ -5,7 +5,7 @@ The classic Tic-Tac-Toe game.
 ## Idea from this YouTube video:
 https://www.youtube.com/watch?v=ftJ66kZhdLk
 
-Learn:
+## Learn:
 ```
 Basic Methods
 Basic JFrames
